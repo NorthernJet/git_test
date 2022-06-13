@@ -1,2 +1,3 @@
 beep beep boop 
-hello world
+hello world 
+testing git commit message editor
